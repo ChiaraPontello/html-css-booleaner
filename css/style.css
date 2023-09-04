@@ -62,3 +62,16 @@ text-align: center;
 /*fine main*/
 
 /*inizio footer*/
+
+.monitor {
+    margin: 0px;
+    background-image: url('../img/monitor.jpg');
+    background-repeat: no-repeat;
+    background-position:center;
+    color: white;
+    font-size: 140%;
+    text-align: top;
+    width: 240px;
+    height: 150px;
+
+}
