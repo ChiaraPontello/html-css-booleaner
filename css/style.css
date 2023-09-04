@@ -25,6 +25,10 @@ h1 {
     margin:0px;
 }
 
+td {
+   width: 5%;
+}
+
 .grigio {
     color: lightslategray
 }
@@ -57,14 +61,17 @@ table{
 background-color: blue;
 color: white;
 text-align: left;
+
 }
 
 .azzurro{
     background-color: aqua;
+    text-align: left;
 }
 
 .bianco{
     background-color: white;
+    text-align: left;
 }
 /*fine main*/
 
