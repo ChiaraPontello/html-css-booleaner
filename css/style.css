@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* inizio header*/
+header {
+background-image: url('../img/pattern.png');
+height: 80px;
+background-size: 20%;
+background-repeat: repeat;
+background-color: blue;
+}
+
+.logo {
+    height: 40px;
+    background-size: 10%;
+    margin-top: 30px;
+}
