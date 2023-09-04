@@ -75,3 +75,14 @@ text-align: center;
     height: 150px;
 
 }
+
+.grafico {
+    background-image: url('../img/graph.jpg');
+    background-repeat: no-repeat;
+    background-position:center;
+    color: white;
+    font-size: 140%;
+    text-align: top;
+    width: 240px;
+    height: 150px;
+}
