@@ -50,11 +50,17 @@ h1 {
 /*tabella*/
 table{
     text-align:left;
+    
 }
+
+
+
+
+
 .intestazione {
 background-color: blue;
 color: white;
-text-align: center;
+text-align: left;
 }
 
 .azzurro{
