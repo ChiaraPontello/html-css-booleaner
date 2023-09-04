@@ -12,6 +12,7 @@ padding: 0;
 box-sizing: border-box;
 }
 
+
 .logo {
     height: 40px;
     background-size: 10%;
@@ -19,6 +20,10 @@ box-sizing: border-box;
 }
 
 /*inizio main*/ 
+
+h1 {
+    margin:0px;
+}
 
 .grigio {
     color: lightslategray
