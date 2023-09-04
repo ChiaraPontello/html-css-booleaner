@@ -1,8 +1,4 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
+
 
 /* inizio header*/
 header {
@@ -11,6 +7,9 @@ height: 80px;
 background-size: 20%;
 background-repeat: repeat;
 background-color: blue;
+margin: 0;
+padding: 0;
+box-sizing: border-box;
 }
 
 .logo {
