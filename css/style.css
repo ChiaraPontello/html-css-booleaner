@@ -49,13 +49,9 @@ h1 {
 
 /*tabella*/
 table{
-    text-align:left;
-    
+    text-align: left;
+    border-collapse: collapse;    
 }
-
-
-
-
 
 .intestazione {
 background-color: blue;
