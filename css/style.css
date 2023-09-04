@@ -18,3 +18,11 @@ background-color: blue;
     background-size: 10%;
     margin-top: 30px;
 }
+
+span {
+    color: lightslategray
+}
+
+.data {
+    font-size: 10px;
+}
