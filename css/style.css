@@ -18,6 +18,8 @@ box-sizing: border-box;
     margin-top: 30px;
 }
 
+/*inizio main*/ 
+
 .grigio {
     color: lightslategray
 }
@@ -39,3 +41,24 @@ box-sizing: border-box;
 .giallo{
     background-color: yellow;
 }
+
+/*tabella*/
+table{
+    text-align:left;
+}
+.intestazione {
+background-color: blue;
+color: white;
+text-align: center;
+}
+
+.azzurro{
+    background-color: aqua;
+}
+
+.bianco{
+    background-color: white;
+}
+/*fine main*/
+
+/*inizio footer*/
