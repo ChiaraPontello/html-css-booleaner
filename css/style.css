@@ -25,9 +25,7 @@ h1 {
     margin:0px;
 }
 
-td {
-   width: 5%;
-}
+
 
 .grigio {
     color: lightslategray
@@ -73,6 +71,10 @@ text-align: left;
     background-color: white;
     text-align: left;
 }
+
+td {
+    width: 5%;
+ }
 /*fine main*/
 
 /*inizio footer*/
